@@ -8,9 +8,10 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 <p align='center'>
    <a href="https://www.linkedin.com/in/ofelia-sestu-37b4551a4/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>>
+   </a>
 <hr>
 👩‍💻 Il mio obiettivo è diventare Fullstack Developer.
+<br>
 🖥️ Attualmente sto lavorando ad un piccolo sito web per mettere in pratica e ampliare le mie conoscenze backend e frontend.
 🌱 Nel frattempo sto studiando Phyton.
 👣 Prossimi step: React, Angular, C#, C++.
