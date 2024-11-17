@@ -13,15 +13,20 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 👩‍💻 Il mio obiettivo è diventare Fullstack Developer.
 <br>
 🖥️ Attualmente sto lavorando ad un piccolo sito web per mettere in pratica e ampliare le mie conoscenze backend e frontend.
+<br>
 🌱 Nel frattempo sto studiando Phyton.
+<br>
 👣 Prossimi step: React, Angular, C#, C++.
 <hr>
 ### Skills
-* Java, Spring.
-* HTML, CSS, JavaScript, JQuery.
-* SQL, MySQL.
+<ul>
+   <li>Java, Spring.</li>
+   <li>HTML, CSS, JavaScript, JQuery.</li>
+   <li>SQL, MySQL.</li>
+</ul>
 <hr>
 Dai un'occhiata al progetto Junkin Space🗑️, un sito di recensioni per film e serie tv davvero molto particolare!
+<br>
 L'ho realizzato assieme ad alcuni miei colleghi, facendo parte del gruppo che si occupava di frontend.
   
 <!--
