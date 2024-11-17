@@ -7,8 +7,14 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 </p>
 <p align='center'>
    <a href="https://www.linkedin.com/in/ofelia-sestu-37b4551a4/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+</p>
+<p align='center'>
+   <a href="https://github.com/ProgramOfi/github-readme-stats">
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/>
+   </a>
+</p>
 <hr>
 👩‍💻 Il mio obiettivo è diventare Fullstack Developer.
 <br>
@@ -18,7 +24,7 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 <br>
 👣 Prossimi step: React, Angular, C#, C++.
 <hr>
-<h2>Skills</h2>
+<h4>Skills</h4>
 <ul>
    <li>Java, Spring.</li>
    <li>HTML, CSS, JavaScript, JQuery.</li>
