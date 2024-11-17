@@ -1,5 +1,6 @@
 ## Ehi ciao, io sono Ofelia 👋
 ✨ Junior Java Developer, ma anche una Makeup Artist.
+<br>
 Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entrambre costruisci l'idea finale un pezzettino per volta, fino a presentare un "prodotto" finito che sia bello da vedere e funzionale.
 <hr>
 <p align='center'>
