@@ -18,7 +18,7 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 <br>
 👣 Prossimi step: React, Angular, C#, C++.
 <hr>
-### Skills
+<h2>Skills</h2>
 <ul>
    <li>Java, Spring.</li>
    <li>HTML, CSS, JavaScript, JQuery.</li>
