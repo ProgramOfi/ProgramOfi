@@ -1,4 +1,3 @@
-<div style="background color: blue;">
 ## Ehi ciao, io sono Ofelia 👋
 ✨ Junior Java Developer, ma anche una Makeup Artist.
 <br>
@@ -36,4 +35,3 @@ Possono sembrare professioni molto distanti, ma in realtà non lo sono: in entra
 Dai un'occhiata al progetto Junkin Space🗑️, un sito di recensioni per film e serie tv davvero molto particolare!
 <br>
 L'ho realizzato assieme ad alcuni miei colleghi, facendo parte del gruppo che si occupava di frontend.
-</div>
